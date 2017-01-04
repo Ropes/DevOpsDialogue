@@ -8,7 +8,7 @@ to the template as they're discovered(<3 PRs).
 
 #DevOps Dialogue Service Template 
 
-# General Information 
+# Service Documentation
 
 Operational Context; What is the service accomplishing?
 
